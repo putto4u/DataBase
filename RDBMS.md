@@ -1,7 +1,7 @@
 
 ---
 
-##  관계형 데이터베이스 시스템 (RDBMS)의 기본
+##  관계형 데이터베이스 시스템 (RDBMS)의 기본 
 
 **RDBMS(Relational Database Management System)**는 **SQL(Structured Query Language)**을 사용하여 데이터를 **테이블(Table)** 형태, 즉 행(Row)과 열(Column)로 구성된 형태로 저장하고 관리하는 시스템입니다.
 
